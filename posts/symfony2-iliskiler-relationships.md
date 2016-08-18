@@ -1,16 +1,3 @@
-title: Symfony2 - İlişkiler ( Relationships )
-link: http://cagataycali.com/symfony2-iliskiler-relationships/
-author: cagataycali
-description: 
-post_id: 339
-created: 2015/04/09 00:43:02
-created_gmt: 2015/04/08 21:43:02
-comment_status: open
-post_name: symfony2-iliskiler-relationships
-status: publish
-post_type: post
-
-# Symfony2 - İlişkiler ( Relationships )
 
 Symfony ve Doctrine kullanarak mySQL üzerinde ilişkili veritabanı yapacağız.Belli başlı ilişki türlerini işleyeceğiz. 
 

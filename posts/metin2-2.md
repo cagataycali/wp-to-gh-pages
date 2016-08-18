@@ -1,16 +1,3 @@
-title: Metin2
-link: http://cagataycali.com/metin2-2/
-author: cagataycali
-description: 
-post_id: 187
-created: 2014/01/07 16:57:39
-created_gmt: 2014/01/07 14:57:39
-comment_status: open
-post_name: metin2-2
-status: publish
-post_type: post
-
-# Metin2
 
 **METİN2 SUNUCU HİZMETLERİ ASKIYA ALINDI.**
 

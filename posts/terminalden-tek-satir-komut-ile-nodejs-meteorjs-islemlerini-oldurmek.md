@@ -1,16 +1,3 @@
-title: Terminal'den tek satır komut ile nodejs - meteorjs işlemlerini öldürmek
-link: http://cagataycali.com/terminalden-tek-satir-komut-ile-nodejs-meteorjs-islemlerini-oldurmek/
-author: cagataycali
-description: 
-post_id: 617
-created: 2016/05/18 18:23:59
-created_gmt: 2016/05/18 18:23:59
-comment_status: closed
-post_name: terminalden-tek-satir-komut-ile-nodejs-meteorjs-islemlerini-oldurmek
-status: publish
-post_type: post
-
-# Terminal'den tek satır komut ile nodejs - meteorjs işlemlerini öldürmek
 
 Node JS 
     

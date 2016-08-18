@@ -1,16 +1,3 @@
-title: Elementary OS-Kurulum
-link: http://cagataycali.com/elementary-os-kurulum/
-author: cagataycali
-description: 
-post_id: 207
-created: 2014/11/10 15:36:00
-created_gmt: 2014/11/10 13:36:00
-comment_status: open
-post_name: elementary-os-kurulum
-status: publish
-post_type: post
-
-# Elementary OS-Kurulum
 
 Elementary OS'i beğendiğinizi,ilginizi çektiğini düşünüyorum. Hızlıca vakit kaybetmeden nasıl indirip kurabileceğinizi anlatıcağım. Aşağıdaki linkten Elemantery OS sitesine girin. [ELEMANTERY OS](http://elementaryos.org/) ![Ekran Görüntüsü - 2014-11-10 15:03:52](http://cagataycali.me/wp-content/uploads/2014/11/Ekran-Goeruentuesue-2014-11-10-1503521-300x168.png) Halihazırda yazımı yazarken en güncel sürümü "Luna" sürümüdür. Download yazısının üzerindeki meblaya takılmayın bağış yapmak isterseniz oradan istediğiniz meblayı yazıp gönderebilirsiniz. Fakat bir sonraki ekrana bakarsak oradaki meblayı 0 yaptığımızda ücretsiz olduğunu görebiliriz. ![Ekran Görüntüsü - 2014-11-10 15:19:19](http://cagataycali.me/wp-content/uploads/2014/11/Ekran-Goeruentuesue-2014-11-10-151919-300x168.png)   Bu işlem ardından indirme başlayacaktır. 
 

@@ -1,16 +1,3 @@
-title: Symfony2 - Kullanıcıyı Taklit Etmek(Switch User)
-link: http://cagataycali.com/symfony2-kullaniciyi-taklit-etmekswitch-user/
-author: cagataycali
-description: 
-post_id: 358
-created: 2015/03/29 00:14:28
-created_gmt: 2015/03/28 22:14:28
-comment_status: open
-post_name: symfony2-kullaniciyi-taklit-etmekswitch-user
-status: publish
-post_type: post
-
-# Symfony2 - Kullanıcıyı Taklit Etmek(Switch User)
 
 Symfony uygulama çatısını kullanarak projelerimizi geliştirirken kimi zaman yönetici kullanıcısından çıkıp üye kullanıcısına geçmek için yeni bir üye yaratıp o üye bilgileriyle giriş yapmak **<del>zorunda kalırız</del>,**Symfony bize bu konuda sihirli bir değnek ile dokunup hiç yönetici hesabından çıkış yapmamıza gerek kalmadan üye gözüyle projemizi görmeyi sağlıyor.Bunu roller arasında Switch User adı verilen ve Türkçe'si "Üye değiştir" olan durumla sağlıyor.Nasıl yapılıyor bakalım: 
     

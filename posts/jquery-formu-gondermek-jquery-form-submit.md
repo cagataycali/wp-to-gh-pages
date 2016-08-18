@@ -1,16 +1,3 @@
-title: Jquery Formu Göndermek ( Jquery Form Submit)
-link: http://cagataycali.com/jquery-formu-gondermek-jquery-form-submit/
-author: cagataycali
-description: 
-post_id: 526
-created: 2015/07/04 10:48:23
-created_gmt: 2015/07/04 07:48:23
-comment_status: closed
-post_name: jquery-formu-gondermek-jquery-form-submit
-status: publish
-post_type: post
-
-# Jquery Formu Göndermek ( Jquery Form Submit)
 
 <!DOCTYPE html>
     <html>

@@ -1,16 +1,3 @@
-title: PHP Data Objects Nedir?
-link: http://cagataycali.com/php-data-objects-nedir/
-author: cagataycali
-description: 
-post_id: 163
-created: 2014/11/06 15:56:26
-created_gmt: 2014/11/06 13:56:26
-comment_status: open
-post_name: php-data-objects-nedir
-status: publish
-post_type: post
-
-# PHP Data Objects Nedir?
 
 Merhabalar; Günümüzün en popüler veritabanı yazılımı bildiğiniz gibi **mySQL**. Fakat PHP eski alışkanlıklardan vazgeçiyor. Artık “**mysql_connect**“, “**mysql_query**” fonksiyonlarının gelecek sürümde işlevinin yitirileceğini PHP resmi sitesindeki bilgilerden öğreniyoruz. 
 

@@ -1,16 +1,3 @@
-title: Symfony2 | FosUserBundle | Kayıtları davetiye üzerinden almak
-link: http://cagataycali.com/symfony2-fosuserbundle-kayitlari-davetiye-uzerinden-almak/
-author: cagataycali
-description: 
-post_id: 463
-created: 2015/06/01 00:52:43
-created_gmt: 2015/05/31 21:52:43
-comment_status: closed
-post_name: symfony2-fosuserbundle-kayitlari-davetiye-uzerinden-almak
-status: publish
-post_type: post
-
-# Symfony2 | FosUserBundle | Kayıtları davetiye üzerinden almak
 
 Projemize kayıtların davetiye kodu üzerinden alınmasını sağlamak için hızlıca ayarlamalarımızı yapalım. **ADIM 1** İlk olarak davet classlarımızı içerecek olan entity'mizi oluşturalım. **EntityInvitation.php **
     

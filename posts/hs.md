@@ -1,16 +1,3 @@
-title: HackerSpace Çalışmalarım
-link: http://cagataycali.com/hs/
-author: cagataycali
-description: 
-post_id: 181
-created: 2014/01/07 16:55:43
-created_gmt: 2014/01/07 14:55:43
-comment_status: open
-post_name: hs
-status: publish
-post_type: post
-
-# HackerSpace Çalışmalarım
 
 Bu yazıda Hacker Space'deki çalışmalarımı paylaşacağım umarım benim gibi yeni başlayanlara bir yol gösterici olur. Her hafta blogumu takip ederek neler yaptığımı gözden geçirebilirsiniz. Beğendiğiniz beğenmediğiniz noktaları bana iletirseniz sevinirim. Çalışmalarımın tümüne ulaşmak/indirmek isteyenler için yandex disk hesabım :  [Yandex](https://yadi.sk/d/OwCSEOO4bXYCA) Notepad ++ [indir](https://yadi.sk/d/CFH7L7SlbUAqU) Appserv [indir](https://yadi.sk/d/CFH7L7SlbUAqU) WampServ [indir](https://yadi.sk/d/WH6F87DVbUBSE) [Php MySQL Kurulum](http://ccali.com.tr.vu/kurulum.php?) PHP Çalışmalarım: [site için tıkla](http://php.cagataycali.me/hackerspace/)
 

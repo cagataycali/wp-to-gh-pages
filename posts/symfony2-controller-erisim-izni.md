@@ -1,16 +1,3 @@
-title: Symfony2 - Controller Erişim İzni
-link: http://cagataycali.com/symfony2-controller-erisim-izni/
-author: cagataycali
-description: 
-post_id: 363
-created: 2015/03/29 00:46:54
-created_gmt: 2015/03/28 22:46:54
-comment_status: open
-post_name: symfony2-controller-erisim-izni
-status: publish
-post_type: post
-
-# Symfony2 - Controller Erişim İzni
 
 Symfony kullanarak yaptığımız projelerde rollerin dizinlere erişimlerini kısıtlayarak çeşitli güvenlik önlemleri almıştık,bunların yanı sıra controller'ımızın içerisindeki metotlarımıza(fonksiyon) da erişim izni vermemiz gerekebilir. Birinci yol; 
     

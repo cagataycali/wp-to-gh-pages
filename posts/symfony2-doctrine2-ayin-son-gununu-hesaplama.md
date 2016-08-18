@@ -1,16 +1,3 @@
-title: Symfony2 - Doctrine2 | Ayın son gününü hesaplama
-link: http://cagataycali.com/symfony2-doctrine2-ayin-son-gununu-hesaplama/
-author: cagataycali
-description: 
-post_id: 410
-created: 2015/04/14 22:35:27
-created_gmt: 2015/04/14 19:35:27
-comment_status: open
-post_name: symfony2-doctrine2-ayin-son-gununu-hesaplama
-status: publish
-post_type: post
-
-# Symfony2 - Doctrine2 | Ayın son gününü hesaplama
 
 Doctrine2 sorgusu 
     

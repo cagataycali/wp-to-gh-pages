@@ -1,16 +1,3 @@
-title: Symfony2 - FOSUserBundle Komut Satırı Araçları ( Command Line Tools )
-link: http://cagataycali.com/symfony2-fosuserbundle-komut-satiri-araclari-command-line-tools/
-author: cagataycali
-description: 
-post_id: 372
-created: 2015/03/30 22:47:52
-created_gmt: 2015/03/30 19:47:52
-comment_status: open
-post_name: symfony2-fosuserbundle-komut-satiri-araclari-command-line-tools
-status: publish
-post_type: post
-
-# Symfony2 - FOSUserBundle Komut Satırı Araçları ( Command Line Tools )
 
 FOSUserBundle uygulamanızın kullanıcılarını yönetmenize yardımcı olmak için komut satırı araçları sağlar . Komutlar aşağıdaki görevler için kullanılabilir : 
 

@@ -1,16 +1,3 @@
-title: Symfony2 - Doctrine2 -FosUserBundle | Yeni eklenen kaydın Id değerini çekmek
-link: http://cagataycali.com/symfony2-doctrine2-fosuserbundle-yeni-eklenen-kaydin-id-degerini-cekmek/
-author: cagataycali
-description: 
-post_id: 427
-created: 2015/04/14 22:24:39
-created_gmt: 2015/04/14 19:24:39
-comment_status: closed
-post_name: symfony2-doctrine2-fosuserbundle-yeni-eklenen-kaydin-id-degerini-cekmek
-status: publish
-post_type: post
-
-# Symfony2 - Doctrine2 -FosUserBundle | Yeni eklenen kaydın Id değerini çekmek
 
 Controllera yeni kayıt ekledikten sonra eklediğimiz kaydı başka bir ilişkili tabloya kayıt etmek istersek eklenilen kaydın id değerini elde etmemiz gerekecektir. 
 

@@ -1,16 +1,3 @@
-title: Metinleri bölmek
-link: http://cagataycali.com/metinleri-bolmek/
-author: cagataycali
-description: 
-post_id: 123
-created: 2014/11/02 18:00:45
-created_gmt: 2014/11/02 16:00:45
-comment_status: open
-post_name: metinleri-bolmek
-status: publish
-post_type: post
-
-# Metinleri bölmek
 
 explode($ayraç,$metin) elimizde var olan metni istediğimiz ayraçlar yardımıyla bölmemize yarar. Birkaç örnek yapalım ilk olarak elimizdeki yazıyı boşluklardan bölelim ve bir dizeye atayalım. 
     

@@ -6,7 +6,6 @@ exec(`cd posts && ls`, function (error, stdout, stderr) {
   if (error) console.log(error);
   var files = stdout.split('\n');
   files.forEach(function(file) {
-
     var fileString = file.split('-'); // array
     fileString.splice(0, 1);
     var newName = fileString.join('-');

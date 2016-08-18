@@ -1,16 +1,3 @@
-title: Symfony2 | Swift Mailler ile mail gönderme;
-link: http://cagataycali.com/symfony2-swift-mailler-ile-mail-gonderme/
-author: cagataycali
-description: 
-post_id: 446
-created: 2015/05/30 14:45:42
-created_gmt: 2015/05/30 11:45:42
-comment_status: closed
-post_name: symfony2-swift-mailler-ile-mail-gonderme
-status: publish
-post_type: post
-
-# Symfony2 | Swift Mailler ile mail gönderme;
 
 Projelerimizde swift mailler aracılığıyla mail göndermek için ilk olarak parameters.yml dosyamızı düzenliyoruz.  
     

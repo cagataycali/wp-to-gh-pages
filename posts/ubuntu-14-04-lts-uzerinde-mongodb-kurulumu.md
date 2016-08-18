@@ -1,16 +1,3 @@
-title: Ubuntu 14-04 LTS üzerinde MongoDB Kurulumu
-link: http://cagataycali.com/ubuntu-14-04-lts-uzerinde-mongodb-kurulumu/
-author: cagataycali
-description: 
-post_id: 517
-created: 2015/06/13 11:47:44
-created_gmt: 2015/06/13 08:47:44
-comment_status: closed
-post_name: ubuntu-14-04-lts-uzerinde-mongodb-kurulumu
-status: publish
-post_type: post
-
-# Ubuntu 14-04 LTS üzerinde MongoDB Kurulumu
 
 İlk olarak mongo db'yi yüklemek için terminalimizi açıyoruz. ( CTRL-ALT-T  Kombinasyonu ile açılabilir ) . MongoDB herkese açık anahtarını tanıtmak için terminale şu kodu yazıyoruz. 
     

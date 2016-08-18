@@ -1,16 +1,3 @@
-title: PHP Hesap Makinesi Fonksiyonu;
-link: http://cagataycali.com/php-hesap-makinesi-fonksiyonu/
-author: cagataycali
-description: 
-post_id: 213
-created: 2014/11/12 16:44:50
-created_gmt: 2014/11/12 14:44:50
-comment_status: open
-post_name: php-hesap-makinesi-fonksiyonu
-status: publish
-post_type: post
-
-# PHP Hesap Makinesi Fonksiyonu;
 
 <form action="" method="post">
         <ul>

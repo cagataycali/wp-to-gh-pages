@@ -1,16 +1,3 @@
-title: Symfony2 - Yeni Entity Oluşturmak
-link: http://cagataycali.com/symfony2-yeni-entity-olusturmak/
-author: cagataycali
-description: 
-post_id: 320
-created: 2015/03/15 23:29:30
-created_gmt: 2015/03/15 21:29:30
-comment_status: open
-post_name: symfony2-yeni-entity-olusturmak
-status: publish
-post_type: post
-
-# Symfony2 - Yeni Entity Oluşturmak
 
 Önceki yazılarımda [merhaba dünyamızı](http://cagataycali.me/symfony2-merhaba-dunya/) yaptık ve ardından [kendi bohçamızı oluşturduk](http://cagataycali.me/symfony2-yeni-bundle-olusturmak/).Sırada Entity oluştumak var,yazılarımda mümkün olduğunca güzel Türkçe'mizdeki karşılıklarıyla açıklamaya ve o şekilde aktarmaya ne kadar çalışsamda Entity-Assets gibi kavramlar karşımıza illaki çıkacak.Entity ve assets anlamdaş olup varlık anlamına gelmektedir.Biz symfony2 ile yazarken entity kavramını ORM katmanının classlarını içeren php dosyası olarak düşüneceğiz. 
 

@@ -1,16 +1,3 @@
-title: Symfony2 - WebSocket Kurulumu ( GOS WebsocketBundle )
-link: http://cagataycali.com/symfony2-websocket-kurulumu-gos-websocketbundle/
-author: cagataycali
-description: 
-post_id: 557
-created: 2015/11/12 09:02:20
-created_gmt: 2015/11/12 09:02:20
-comment_status: closed
-post_name: symfony2-websocket-kurulumu-gos-websocketbundle
-status: publish
-post_type: post
-
-# Symfony2 - WebSocket Kurulumu ( GOS WebsocketBundle )
 
 Symfony2 projemizde asenkron çalışmayı sağlamak için,node js - autobahn js kullanmak zorunda değiliz. Php ratchet temelleri üzerine kodlanmış GeniusesOfSymfony/WebsocketBundle'ı kurmayı anlatacağım. **Çalışan örnek : [GİTHUB](https://github.com/ccali14/SymfonyWebSockets)**   **ADIM 1 **
 

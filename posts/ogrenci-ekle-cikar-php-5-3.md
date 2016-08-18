@@ -1,16 +1,3 @@
-title: Öğrenci Ekle-Çıkar (Php 5.3)
-link: http://cagataycali.com/ogrenci-ekle-cikar-php-5-3/
-author: cagataycali
-description: 
-post_id: 231
-created: 2014/11/27 15:58:33
-created_gmt: 2014/11/27 13:58:33
-comment_status: open
-post_name: ogrenci-ekle-cikar-php-5-3
-status: publish
-post_type: post
-
-# Öğrenci Ekle-Çıkar (Php 5.3)
 
 Basit bir şekilde veritabanı kullanarak öğrenci ekleme ve çıkartma işlemleri yaptım     **-**ilk olarak** index.php** oluşturun,bu **index.php**' içerisinde sitemizin html kodları yer alacak ve bir form olacak. 
     

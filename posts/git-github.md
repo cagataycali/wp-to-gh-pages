@@ -1,16 +1,3 @@
-title: Git-GitHub
-link: http://cagataycali.com/git-github/
-author: cagataycali
-description: 
-post_id: 48
-created: 2014/10/24 21:41:18
-created_gmt: 2014/10/24 21:41:18
-comment_status: open
-post_name: git-github
-status: publish
-post_type: post
-
-# Git-GitHub
 
 ![](https://images-blogger-opensocial.googleusercontent.com/gadgets/proxy?url=http%3A%2F%2Femirbozkir.com%2Fblog%2Fwp-content%2Fuploads%2F2013%2F07%2Fgithuboctacat-600x200.jpg&container=blogger&gadget=a&rewriteMime=image%2F*)
 

@@ -1,16 +1,3 @@
-title: Symfony2 - Bootstrap - Twig Kullanımı
-link: http://cagataycali.com/symfony2-bootstrap-twig-kullanimi/
-author: cagataycali
-description: 
-post_id: 365
-created: 2015/03/29 00:55:23
-created_gmt: 2015/03/28 22:55:23
-comment_status: open
-post_name: symfony2-bootstrap-twig-kullanimi
-status: publish
-post_type: post
-
-# Symfony2 - Bootstrap - Twig Kullanımı
 
 Symfony2 projemizde twig üzerine bootstrap temaları giydirmek için bootstrap elementlerini projemize dahil etmeliyiz.Bütün dosyaları internet üzerindeki bir sunucudan çekmek herzaman performanslı olmayacaktır(Çok elzem değildir) Projemizin Web dizini içerisinde assets klasörü açtın.Elementleri yerleştirdikten sonra twig içerisinden çağırmak için; 
     

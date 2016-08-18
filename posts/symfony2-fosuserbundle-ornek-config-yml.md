@@ -1,16 +1,3 @@
-title: Symfony2 - FOSUserBundle - Örnek Config.yml
-link: http://cagataycali.com/symfony2-fosuserbundle-ornek-config-yml/
-author: cagataycali
-description: 
-post_id: 387
-created: 2015/03/30 23:01:10
-created_gmt: 2015/03/30 20:01:10
-comment_status: open
-post_name: symfony2-fosuserbundle-ornek-config-yml
-status: publish
-post_type: post
-
-# Symfony2 - FOSUserBundle - Örnek Config.yml
 
 Mevcut tüm yapılandırma seçenekleri varsayılan değerleri ile aşağıda listelenmiştir . 
     

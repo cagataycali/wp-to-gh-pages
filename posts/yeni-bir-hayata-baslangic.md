@@ -1,16 +1,3 @@
-title: Yeni Bir Hayata Başlangıç
-link: http://cagataycali.com/yeni-bir-hayata-baslangic/
-author: cagataycali
-description: 
-post_id: 33
-created: 2014/10/05 09:10:04
-created_gmt: 2014/10/05 09:10:04
-comment_status: open
-post_name: yeni-bir-hayata-baslangic
-status: publish
-post_type: post
-
-# Yeni Bir Hayata Başlangıç
 
 Merhabalar, 
 

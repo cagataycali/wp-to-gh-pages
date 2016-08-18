@@ -1,16 +1,3 @@
-title: Symfony2 - Merhaba dünya!
-link: http://cagataycali.com/symfony2-merhaba-dunya/
-author: cagataycali
-description: 
-post_id: 284
-created: 2015/03/14 23:30:33
-created_gmt: 2015/03/14 21:30:33
-comment_status: open
-post_name: symfony2-merhaba-dunya
-status: publish
-post_type: post
-
-# Symfony2 - Merhaba dünya!
 
 > Her yazılım dilinde ilk önce yapılan şeylerden biridir **'Merhaba dünya'** ve kendi merhaba dünyamı nasıl yaptığımı açıklayacağım.
 

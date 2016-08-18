@@ -1,16 +1,3 @@
-title: Symfony Hızlı Kurulum
-link: http://cagataycali.com/symfony-hizli-kurulum/
-author: cagataycali
-description: 
-post_id: 485
-created: 2015/06/04 15:56:54
-created_gmt: 2015/06/04 12:56:54
-comment_status: closed
-post_name: symfony-hizli-kurulum
-status: publish
-post_type: post
-
-# Symfony Hızlı Kurulum
 
 ### Symfony2 'yi her defasında indirmeyle uğraşmamak için symfony kendi kurulum yardımcısıyla hızlı bir şekilde kurulabilir.
 

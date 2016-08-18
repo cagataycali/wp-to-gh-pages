@@ -1,16 +1,3 @@
-title: Symfony2 ve Doctrine 2 - Ekle Sil Güncelle
-link: http://cagataycali.com/symfony2-ve-doctrine-2-ekle-sil-guncelle/
-author: cagataycali
-description: 
-post_id: 328
-created: 2015/03/16 02:28:09
-created_gmt: 2015/03/16 00:28:09
-comment_status: open
-post_name: symfony2-ve-doctrine-2-ekle-sil-guncelle
-status: publish
-post_type: post
-
-# Symfony2 ve Doctrine 2 - Ekle Sil Güncelle
 
 ### **GÜNCELLEME :  Çalışan örnek github'da mevcut.[TIKLA](https://github.com/ccali14/Symfony2-EkleSilGuncelle#symfony2-eklesilguncelle)**
 

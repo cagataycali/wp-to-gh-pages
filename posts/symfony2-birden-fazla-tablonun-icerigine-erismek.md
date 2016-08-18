@@ -1,16 +1,3 @@
-title: Symfony2 - Birden fazla tablonun içeriğine erişmek
-link: http://cagataycali.com/symfony2-birden-fazla-tablonun-icerigine-erismek/
-author: cagataycali
-description: 
-post_id: 370
-created: 2015/03/29 01:04:07
-created_gmt: 2015/03/28 23:04:07
-comment_status: open
-post_name: symfony2-birden-fazla-tablonun-icerigine-erismek
-status: publish
-post_type: post
-
-# Symfony2 - Birden fazla tablonun içeriğine erişmek
 
 Symfony2 projemizde kullanıcı güncelleme sayfamızda insanlara memleket,cinsiyet gibi öznitelikler seçtirebilmek için birden çok tablodan verileri çekmeliyiz.Ekrana basmak için gerekli olanlar; 
     

@@ -1,16 +1,3 @@
-title: Symfony2 - FosUserBundle Standart Routing(Yönlendirmeler)
-link: http://cagataycali.com/symfony2-fosuserbundle-standart-routingyonlendirmeler/
-author: cagataycali
-description: 
-post_id: 348
-created: 2015/03/28 14:57:13
-created_gmt: 2015/03/28 12:57:13
-comment_status: open
-post_name: symfony2-fosuserbundle-standart-routingyonlendirmeler
-status: publish
-post_type: post
-
-# Symfony2 - FosUserBundle Standart Routing(Yönlendirmeler)
 
 # app/config/routing.yml
     fos_user_security:

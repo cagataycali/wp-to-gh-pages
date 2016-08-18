@@ -1,16 +1,3 @@
-title: Elementary OS-Giriş
-link: http://cagataycali.com/elementary-os-giris/
-author: cagataycali
-description: 
-post_id: 204
-created: 2014/11/10 15:12:51
-created_gmt: 2014/11/10 13:12:51
-comment_status: open
-post_name: elementary-os-giris
-status: publish
-post_type: post
-
-# Elementary OS-Giriş
 
 ## Elementary OS Nedir?
 

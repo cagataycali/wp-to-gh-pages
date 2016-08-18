@@ -1,16 +1,3 @@
-title: Symfony2 DoctrineMongoDBBundle Kurulumu
-link: http://cagataycali.com/symfony2-doctrinemongodbbundle-kurulumu/
-author: cagataycali
-description: 
-post_id: 520
-created: 2015/07/02 00:24:51
-created_gmt: 2015/07/01 21:24:51
-comment_status: closed
-post_name: symfony2-doctrinemongodbbundle-kurulumu
-status: publish
-post_type: post
-
-# Symfony2 DoctrineMongoDBBundle Kurulumu
 
 İlk olarak projemize [composer](http://cagataycali.me/composer-kurulumu/) indiriyoruz. Ardından composer.json dosyamızın içerisine şu kodları ekliyoruz. 
     

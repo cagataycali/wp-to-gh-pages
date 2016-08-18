@@ -1,16 +1,3 @@
-title: Php Dizileri (Array)
-link: http://cagataycali.com/diziler/
-author: cagataycali
-description: 
-post_id: 129
-created: 2014/11/02 18:25:30
-created_gmt: 2014/11/02 16:25:30
-comment_status: open
-post_name: diziler
-status: publish
-post_type: post
-
-# Php Dizileri (Array)
 
 Değişkenler varken neden dizeler var diye soranlar olacaktır,dizilerin değişkenlerden farkı şudur;dizeler birden fazla değer alabilir,aldığı değerleri sıralayabilir,tersten yazdırabilir,karakter karakter bölüp ayrı değişkenlere atayabilir ve birden fazla fonksiyon sayesinde verilere çoklu müdahaleye izin verir.Biz web yazılımcıları için bulunmaz bir nimettir. Basit bir dize örneği yapalım; 
     

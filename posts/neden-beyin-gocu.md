@@ -1,16 +1,3 @@
-title: Neden beyin göçü?
-link: http://cagataycali.com/neden-beyin-gocu/
-author: cagataycali
-description: 
-post_id: 613
-created: 2016/05/16 16:37:28
-created_gmt: 2016/05/16 16:37:28
-comment_status: closed
-post_name: neden-beyin-gocu
-status: publish
-post_type: post
-
-# Neden beyin göçü?
 
 Merhabalar arkadaşlar, abilerim, sevgili büyüklerim ve iş arkadaşlarım; İçinde bulunduğumuz yıllar, teknolojinin hızlı bir şekilde gelişip ilerlediği güzide yıllardan.Teknolojinin gelişimi ile birlikte yapılabilecek çok fazla hizmet, üretilebilecek fazlasıyla teknoloji demek. Önceliğimizin teknoloji geliştirmek olması gereken günümüzde maalesef ülkemizde öncelik sırası tamamen duygusal ( Mali ). Uzun süredir yazı hazırlamaya fırsatım olamadı, teknolojik gelişmelerden uzak kalmış değilim fakat kullandığım teknolojiler yerine dünyanın geliştirmeye çalıştığı teknolojiler hakkında arayışlar içerisindeydim. Bildiğiniz üzere Denizli Pamukkale Üniversitesinde birinci sınıf öğrencisi olmanın haklı gururunu taşıyorum, benim ilk okul dönemimde 5 sene ilkokul 3 sene orta okul ve 4 sene lise okuyup iki adet korku dolu geceler yaşatan sınavlardan geçip, şuanda mensup olduğum üniversiteye layık görüldüm. Öğrenimimin devamı için derslerimi yüksek tutmaya ve ödevlerimi zamanında yapmaya çalışıyorum. Buraya kadar tüm kurgu olması gerektiği gibi ilerlerken, dünyanın sadece para kazanmaktan, üniversiteden mezun olmaktan ve ardından bir iş, ev, araba sahip olup evlenip çoluk çocuğa karışmaktan ibaret olduğu düşüncesinden **kurtulamayan** insanların arasındayız. Kararlarına ve düşüncelerine **kesinlikle saygı duyduğumu** belirtmek isterim. Türkiye'de yaşadığım ve Türk olduğum için milletimle ve tarihte gösterdiği bütün -insanların imkansız olarak gördüğü- başarıları elde ettiği için gurur duyuyorum. İnsanlık tarihinde kesinlikle izimizin olduğunu ve Türk milletinin bir düşünceyi benimsediğinde neleri yapabildiğinin en net örneği olduğumuzu dillendirmeye gerek bile duymuyorum. Kendimde bir Türk olarak günlük yaşamımda, yurt dışından ithal olarak getirilmiş x marka cep telefonunu ve yine aynı firmanın x marka bilgisayarını kullanmaktayım, x diye isimlendirmemin nedeni insanlarımıza gereğinden fazla yapılan marka özendirmesine uymak istememem. Üretilen bu güzide teknolojilere hayranlıkla aldanıp sadece kullanmakla yetinmemeliyiz, x marka teknolojide lider kesinlikle onlara erişemeyiz düşüncesinde olmak bizi sadece geriye itecektir. 
 

@@ -1,16 +1,3 @@
-title: Dört İşlem (Fonksiyonlu)
-link: http://cagataycali.com/dort-islem-fonksiyonlui/
-author: cagataycali
-description: 
-post_id: 225
-created: 2014/11/20 16:50:55
-created_gmt: 2014/11/20 14:50:55
-comment_status: open
-post_name: dort-islem-fonksiyonlui
-status: publish
-post_type: post
-
-# Dört İşlem (Fonksiyonlu)
 
 <?php
     include "htmlfunc.php";

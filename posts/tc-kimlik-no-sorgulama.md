@@ -1,16 +1,3 @@
-title: Php ile TC kimlik no sorgulama
-link: http://cagataycali.com/tc-kimlik-no-sorgulama/
-author: cagataycali
-description: 
-post_id: 175
-created: 2014/11/07 16:39:15
-created_gmt: 2014/11/07 14:39:15
-comment_status: open
-post_name: tc-kimlik-no-sorgulama
-status: publish
-post_type: post
-
-# Php ile TC kimlik no sorgulama
 
 Merhabalar Aşağıda vereceğim kodları kullanarak kendi sitenize TC üzerinden kayıt yaptırabilirsiniz. index.php 
     

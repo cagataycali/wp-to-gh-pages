@@ -1,16 +1,3 @@
-title: TwitterKurdu.COM
-link: http://cagataycali.com/tw/
-author: cagataycali
-description: 
-post_id: 46
-created: 2014/10/24 12:14:32
-created_gmt: 2014/10/24 12:14:32
-comment_status: open
-post_name: tw
-status: publish
-post_type: post
-
-# TwitterKurdu.COM
 
 ### [www.twitterkurdu.com](http://www.calicagatay.com/2014/10/wwwtwitterkurducom.html)
 

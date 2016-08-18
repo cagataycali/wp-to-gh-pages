@@ -1,16 +1,3 @@
-title: Symfony2  | FosUserBundle Kurulumu
-link: http://cagataycali.com/symfony2-fosuserbundle-kurulumu/
-author: cagataycali
-description: 
-post_id: 458
-created: 2015/06/01 00:18:52
-created_gmt: 2015/05/31 21:18:52
-comment_status: closed
-post_name: symfony2-fosuserbundle-kurulumu
-status: publish
-post_type: post
-
-# Symfony2  | FosUserBundle Kurulumu
 
 Fos user bundle 'ı kurmadan önce symfony dosyalarımız arasında ilk olarak kendi bundle'mızı oluşturmamız gerekmektedir.Kendi bundle'mızı yani bohçamızı açmadan içerisinde fos user bundle tanımlayamayız. Yeni bundle açmak için : [tıkla ](http://cagataycali.me/symfony2-yeni-bundle-olusturmak/)
 

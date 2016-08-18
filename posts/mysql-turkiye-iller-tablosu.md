@@ -1,16 +1,3 @@
-title: Mysql Türkiye İller Tablosu
-link: http://cagataycali.com/mysql-turkiye-iller-tablosu/
-author: cagataycali
-description: 
-post_id: 341
-created: 2015/03/27 11:19:41
-created_gmt: 2015/03/27 09:19:41
-comment_status: open
-post_name: mysql-turkiye-iller-tablosu
-status: publish
-post_type: post
-
-# Mysql Türkiye İller Tablosu
 
 INSERT INTO `Memleket` VALUES (1, 'ADANA');
     INSERT INTO `Memleket` VALUES (2, 'ADIYAMAN');

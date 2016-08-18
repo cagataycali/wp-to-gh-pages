@@ -1,16 +1,3 @@
-title: Symfony2 - FosUserBundle Örnek Securty.yml
-link: http://cagataycali.com/symfony2-fosuserbundle-ornek-securty-yml/
-author: cagataycali
-description: 
-post_id: 350
-created: 2015/03/28 15:00:27
-created_gmt: 2015/03/28 13:00:27
-comment_status: open
-post_name: symfony2-fosuserbundle-ornek-securty-yml
-status: publish
-post_type: post
-
-# Symfony2 - FosUserBundle Örnek Securty.yml
 
 # app/config/security.yml
     security:

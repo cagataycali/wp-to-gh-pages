@@ -1,16 +1,3 @@
-title: Symfony2 Yeni Bundle Oluşturmak
-link: http://cagataycali.com/symfony2-yeni-bundle-olusturmak/
-author: cagataycali
-description: 
-post_id: 314
-created: 2015/03/15 22:55:02
-created_gmt: 2015/03/15 20:55:02
-comment_status: open
-post_name: symfony2-yeni-bundle-olusturmak
-status: publish
-post_type: post
-
-# Symfony2 Yeni Bundle Oluşturmak
 
 Önceki yazımda hazır bundle üzerindeki indexAction'u inceledik ve ilk Merhaba dünyamızı yazmış olduk.Şimdi yapacağımız şey ise kendi projemizin kodlarının bulunacağı kod demeti,bohçası olan "Bundle"  yaratmak. 
 

@@ -1,16 +1,3 @@
-title: Yarıçapı Verilen Daire Hakkında Sütlü Sohbetler
-link: http://cagataycali.com/yaricapi-verilen-daire-hakkinda-sutlu-sohbetler/
-author: cagataycali
-description: 
-post_id: 217
-created: 2014/11/12 17:04:34
-created_gmt: 2014/11/12 15:04:34
-comment_status: open
-post_name: yaricapi-verilen-daire-hakkinda-sutlu-sohbetler
-status: publish
-post_type: post
-
-# Yarıçapı Verilen Daire Hakkında Sütlü Sohbetler
 
 <form id="form1" name="form1" method="post" action="calismalar.php">
         <table width="212" border="0">

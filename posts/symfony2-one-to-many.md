@@ -1,16 +1,3 @@
-title: Symfony2 - One To Many
-link: http://cagataycali.com/symfony2-one-to-many/
-author: cagataycali
-description: 
-post_id: 494
-created: 2015/06/05 17:51:09
-created_gmt: 2015/06/05 14:51:09
-comment_status: closed
-post_name: symfony2-one-to-many
-status: publish
-post_type: post
-
-# Symfony2 - One To Many
 
 İlişkiler makalemde uzun uzun nasıl yapıldığını anlattım,fakat sadece one-to-many türü ilişki yapmak için tüm makaleyi okumamanız için özet geçiyorum.İki adet entity'miz olsun.
 

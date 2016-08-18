@@ -1,16 +1,3 @@
-title: Google abi bizi indexlesene!
-link: http://cagataycali.com/google-abi-bizi-indexlesene/
-author: cagataycali
-description: 
-post_id: 171
-created: 2014/11/06 17:02:20
-created_gmt: 2014/11/06 15:02:20
-comment_status: open
-post_name: google-abi-bizi-indexlesene
-status: publish
-post_type: post
-
-# Google abi bizi indexlesene!
 
 # **Google abimiz bizi neden indexlemez?(SEO)**
 
