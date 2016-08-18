@@ -1,15 +1,3 @@
-title: İçindekiler
-link: http://cagataycali.com/icindekiler/
-author: cagataycali
-description: 
-post_id: 569
-created: 2015/11/12 09:33:18
-created_gmt: 2015/11/12 09:33:18
-comment_status: closed
-post_name: icindekiler
-status: publish
-post_type: page
-
 # İçindekiler
 
 ### Symfony2 Framework'ü ile ilgili yazılarım
@@ -81,5 +69,3 @@ post_type: page
   * ### [Composer Kurulumu](/composer-kurulumu/) 31 Mayıs 2015
 
   * ### [Symfony2 | FosUserBundle Kurulumu](/symfony2-fosuserbundle-kurulumu/) 1 Haziran 2015
-
-  *

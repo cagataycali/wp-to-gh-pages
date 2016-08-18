@@ -1,15 +1,3 @@
-title: Hoşgeldiniz ;
-link: http://cagataycali.com/
-author: cagataycali
-description:
-post_id: 298
-created: 2015/03/15 00:22:30
-created_gmt: 2015/03/14 22:22:30
-comment_status: open
-post_name: anasayfa
-status: publish
-post_type: page
-
 # Hoşgeldiniz ;
 
 Merhabalar ben Ç², Denizli Pamukkale Üniversitesi Bilgisayar Müh. öğrencisi birinci sınıf öğrencisiyim.PAÜ Teknokent Kodpit'de çalışmakta-idim.
