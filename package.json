@@ -1,0 +1,19 @@
+{
+  "name": "cagataycali.com",
+  "version": "1.0.0",
+  "description": "Merhabalar ben Ç², Denizli Pamukkale Üniversitesi Bilgisayar Müh. öğrencisi birinci sınıf öğrencisiyim.PAÜ Teknokent Kodpit'de çalışmakta-idim.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cagataycali/cagataycali.com.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cagataycali/cagataycali.com/issues"
+  },
+  "homepage": "https://github.com/cagataycali/cagataycali.com#readme"
+}
