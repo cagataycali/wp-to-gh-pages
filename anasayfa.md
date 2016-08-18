@@ -1,7 +1,7 @@
 title: Hoşgeldiniz ;
 link: http://cagataycali.com/
 author: cagataycali
-description: 
+description:
 post_id: 298
 created: 2015/03/15 00:22:30
 created_gmt: 2015/03/14 22:22:30
@@ -12,7 +12,7 @@ post_type: page
 
 # Hoşgeldiniz ;
 
-Merhabalar ben Ç², Denizli Pamukkale Üniversitesi Bilgisayar Müh. öğrencisi birinci sınıf öğrencisiyim.PAÜ Teknokent Kodpit'de çalışmakta-idim. 
+Merhabalar ben Ç², Denizli Pamukkale Üniversitesi Bilgisayar Müh. öğrencisi birinci sınıf öğrencisiyim.PAÜ Teknokent Kodpit'de çalışmakta-idim.
 
 Aktif olarak **<del>Symfony2</del>** ile geliştiricilik yapıyor<del>um.</del>dum. **:)**
 
@@ -37,13 +37,13 @@ E-posta : [calicagatay@icloud.com](mailto:calicagatay@icloud.com)
 Biz yazılımla uğraşan insanlar kahvesiz birşey yapamıyoruz,eğer yazılarımdan hoşlandıysan bana bir kahve ısmarlar mısın?
 
 Symfony Kitabı : **<http://symfony.gitbooks.io/tr/> **
-    
-    
+
+
     { Bloğumda yazanlardan fazlası değil sadece bir kahve için  :) }
 
 **Symfony Eğitim Videoları : **
 
-[embed]https://www.youtube.com/watch?v=WzcRJ2cMess&list;=PLaRvI2em-MKhStVZX3Cnp_StuhEy5gtNL&index;=1[/embed]
+[![Eğitim videoları ](http://img.youtube.com/vi/WzcRJ2cMess/0.jpg)](http://www.youtube.com/watch?v=WzcRJ2cMess)
 
 ## Comments
 
@@ -60,4 +60,3 @@ Symfony Kitabı : **<http://symfony.gitbooks.io/tr/> **
 **[Feyzi Yuşa Karababa](#16 "2016-05-16 18:05:33"):** Elinize Sağlık. Son yazdığınız Neden Beyin Göçü adlı makale gerçekten güzel olmuş.
 
 **[İlke](#19 "2016-05-26 18:53:30"):** Makaleleriniz ve anlatım tarzınız çok süper başarılarınızın devamını dilerim
-
